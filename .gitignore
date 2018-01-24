@@ -4,3 +4,6 @@
 *.SUNet
 *.pyc
 .env/*
+.idea/*
+examples/data/*
+examples/graphs/*
